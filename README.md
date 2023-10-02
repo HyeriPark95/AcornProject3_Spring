@@ -21,3 +21,18 @@
 - **DataBase** : Oracle DB (11xe)
 - **Server** : Tomcat 9.0
 - **ORM** : Mybatis
+
+  
+## ⚪ 기능설명
+<details>
+ <summary>로그인 , ID/PW 찾기, 회원가입</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/eacc1a13-fd8a-4f07-9962-8950c8c1d223">
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/9a8cc839-b620-4849-94d0-9644d9923357">
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/84bf5b60-1d49-4709-a7db-1df0e12b6f94">
+
+- 로그인 버튼 클릭시 유효성 검증 후 성공시 해당 아이디의 홈페이지로 이동
+- 이름, 이메일 등을 통해 아이디/비밀번호 찾기
+- 회원가입시 아이디 중복검사
+
+</details>
