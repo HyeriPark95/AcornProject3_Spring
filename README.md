@@ -62,11 +62,23 @@
 </details>
 
 <details>
- <summary>플레이리스트</summary>
+ <summary>플레이리스트 / 앨범구매</summary>
 
 <img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/4a3f5c40-1eae-42a3-9118-bd9b9f7c35d9">
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/975fff7d-9e71-4b4b-b13e-1d6716aee081">
 
 - 왼쪽 가지고 있는 곡 확인
 - 플레이리스트 추가 및 삭제
+- 음악상점에서 앨범 구매
+- 아티스트/제목으로 검
+</details>
+
+<details>
+ <summary>다이어리</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/3728abc9-1bee-4bdb-8f8a-1f30dc04b44e">
+
+- 날짜별로 다이어리 작성 및 수정
+- 댓글 등록 및 수정/삭제
 </details>
 
