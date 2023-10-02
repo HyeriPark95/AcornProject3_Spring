@@ -70,7 +70,7 @@
 - 왼쪽 가지고 있는 곡 확인
 - 플레이리스트 추가 및 삭제
 - 음악상점에서 앨범 구매
-- 아티스트/제목으로 검
+- 아티스트/제목으로 검색 
 </details>
 
 <details>
@@ -80,5 +80,30 @@
 
 - 날짜별로 다이어리 작성 및 수정
 - 댓글 등록 및 수정/삭제
+</details>
+
+<details>
+ <summary>갤러리</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/ba8fcc83-fac5-43b5-82ec-63e1bb387807">
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/cc41b357-e3de-428d-aa04-10ad3ec2c1e4">
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/b6285f1d-723c-42d0-9865-b148fc99ced7">
+
+
+- 새로운 갤러리 글 작성 (이미지, 텍스트)
+- 좋아요 기능
+- 댓글 등록 및 수정/삭제
+- 갤러리 글 수정 및 삭제
+</details>
+
+<details>
+ <summary>방명록</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/a5e032cf-4a70-4777-8030-5593ab1e0c98">
+
+
+- 방명록 작성, 수정/삭제
+- 홈페이지 주인이 아닌 경우 방명록 등록 가능
+- 홈페이지 주인인 경우 방명록 삭제 가능
 </details>
 
