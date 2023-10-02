@@ -36,3 +36,28 @@
 - 회원가입시 아이디 중복검사
 
 </details>
+
+<details>
+ <summary>메인페이지 [투데이 / 프로필수정 / 일촌알람 및 수락 / 음악재생 / 아이디검색 / 파도타기]</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/fc84f19b-7144-4313-bfa2-72dd54f2c046">
+
+- 투데이 확인
+- 프로필 메시지 비동기 수정
+- 아이디 검색 시 해당 아이디의 홈페이지 이동
+- 해당 홈페이지의 일촌 홈페이지 방문가능 (비공개 제외)
+- 일촌 알림 있을 때에 종버튼 위에 빨간 알림
+- 종버튼 클릭시, 일촌 신청 확인 - 수락 및 거절 가능
+- 음악재생 기능 사용
+
+
+</details>
+
+<details>
+ <summary>프로필</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/9ea0d6e4-ad70-4a78-a7ec-98fbd75d0118">
+
+- 프로필 확인 및 수정 가능
+</details>
+
