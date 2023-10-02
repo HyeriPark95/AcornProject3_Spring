@@ -61,3 +61,12 @@
 - 프로필 확인 및 수정 가능
 </details>
 
+<details>
+ <summary>플레이리스트</summary>
+
+<img width=600 src="https://github.com/HyeriPark95/AcornProject3_Spring/assets/119188681/4a3f5c40-1eae-42a3-9118-bd9b9f7c35d9">
+
+- 왼쪽 가지고 있는 곡 확인
+- 플레이리스트 추가 및 삭제
+</details>
+
